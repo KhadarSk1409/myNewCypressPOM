@@ -1,0 +1,22 @@
+{
+  "name": "mynewpomframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Khadar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.6.1",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "mochawesome-merge": "^4.3.0"
+  }
+}
